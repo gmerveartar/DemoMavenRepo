@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 12 20:55:27 TRT 2023
+org-csystem-util-12.0.0.jar>=
+org-csystem-util-12.0.0.pom>=
