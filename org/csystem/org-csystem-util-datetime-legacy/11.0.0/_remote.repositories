@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 13 14:34:22 TRT 2024
+org-csystem-util-datetime-legacy-11.0.0.jar>=
+org-csystem-util-datetime-legacy-11.0.0.pom>=
