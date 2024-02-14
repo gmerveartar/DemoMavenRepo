@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 14 10:20:54 TRT 2024
+org-csystem-scheduler-11.0.0-11.0.0.jar>=
+org-csystem-scheduler-11.0.0-11.0.0.pom>=
