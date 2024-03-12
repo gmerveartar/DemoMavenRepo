@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 12 22:10:15 TRT 2024
+org-csystem-generator-11.0.0.jar>=
+org-csystem-generator-11.0.0.pom>=
